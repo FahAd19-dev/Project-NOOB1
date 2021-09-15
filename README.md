@@ -1,2 +1,2 @@
-# Project-NOOB1
-Project NOOB 1
+# Project-NOOB1:monocle_face:
+Simple Portfolio Website
